@@ -1,0 +1,1 @@
+from nvcr.io/nvidia/gpu-feature-discovery:v0.8.2-ubi8
